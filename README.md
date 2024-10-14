@@ -1,0 +1,1 @@
+The goal of this project is to demonstrate the effectiveness of transformers in the realm of image classification. The model takes advantage of self-attention mechanisms to model relationships between different parts of an image, providing a robust approach to classification tasks.
