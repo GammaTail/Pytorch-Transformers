@@ -1,1 +1,2 @@
 The goal of this project is to demonstrate the effectiveness of transformers in the realm of image classification. The model takes advantage of self-attention mechanisms to model relationships between different parts of an image, providing a robust approach to classification tasks.
+I have a taken an example of wound of an input which is input.jpg file and it can detect various types of wound and the corresponding output can be seen as output.png file which also shows the probability of it being a cut.
